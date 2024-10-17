@@ -3,7 +3,7 @@ Version:	42675
 Release:	2
 Summary:	TrueType version of Chinese Arphic fonts
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/arphic-ttf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/arphic-ttf
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arphic-ttf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/arphic-ttf.doc.r%{version}.tar.xz
